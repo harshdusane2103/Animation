@@ -1,16 +1,23 @@
-# animated_pr_ui
+<h1 align="center">
+Space App
+</h1>
 
-A new Flutter project.
+<div align="left">
+  <h3 align="left"> # Description :</h3>
+  <p>
 
-## Getting Started
+  </p>
+</div>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="https://github.com/harshdusane2103/Animation/blob/master/sp.png", width=21%,height=35%>
+  <img src="https://github.com/harshdusane2103/Animation/blob/master/sp.png", heigth=35%,width=21%>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center"> 
+  <video src="https://github.com/user-attachments/assets/5d1a6191-11d2-456c-89de-20a3b6a5ec3e" controls></video>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <a href="https://github.com/harshdusane2103/song_player/tree/master/lib">👉Click for File👈</a>
+</div>
